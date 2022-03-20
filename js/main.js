@@ -1,33 +1,25 @@
-/* =====================================
-Template Name: 	Appland
-Author Name: Naimur Rahman
-Author Url: www.themebazzar.com
-Description: Appland - Creative App Landing HTML5 Template.
-Version:	1.0
-========================================*/
-/*=======================================
-[Start Activation Code]
-=========================================
-	* Mobile Menu JS
-	* Onepage Nav JS
-	* Mobile slider JS
-	* Hero Content Slider Slider JS
-	* Extra Scroll JS
-	* Typed JS
-	* Testimonial Slider JS
-	* Screenshorts Slider Js
-	* Blog Slider JS
-	* Clients Slider JS
-	* Counter JS
-	* Magnific Popup JS
-	* Video Popup JS
-	* Stellar JS
-	* Wow JS JS
-	* Scroll Up JS
-	* Preloader JS
-=========================================
-[End Activation Code]
-=========================================*/
+/*
+-- ==============================================================================
+-- Author:  Patrick Sagayaraj
+-- Create Date: 14-03-2022
+-- Description: United Supplies Landing Page
+
+-- Dependency:
+-- ********************
+-- Type             Responsible By              Called By
+-- Page             Patrick Sagayaraj           Front end Development
+
+-- Modification History:
+-- ********************
+-- Date             Modified By                 Change Description
+-- 14-03-2022       Patrick Sagayaraj           Home Page layout creation
+-- 15-03-2022       Patrick Sagayaraj           Home Page Section creation
+-- 16-03-2022       Patrick Sagayaraj           Home Page Section creation
+-- 17-03-2022       Patrick Sagayaraj           Home Page Section creation
+-- 18-03-2022       Patrick Sagayaraj           Home Page Section creation
+-- 19-03-2022       Patrick Sagayaraj           Home Page Section creation
+-- ==============================================================================
+*/
 (function($) {
     "use strict";
     $(document).on('ready', function() {

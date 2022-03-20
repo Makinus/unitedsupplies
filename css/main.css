@@ -1,41 +1,27 @@
-/* =====================================
-Project Name: 	Appland
-Author Name: Naimur Rahman
-Author Url: www.themebazzar.com
-Description: Appland - Creative App Landing HTML5 Template.
-Version:	1.0
-========================================*/   
-/*======================================
-[ CSS Table of contents ]
-* Header CSS
-	+ Logo
-	+ Main Menu
-* Hero Section CSS
-	+ Hero Section 1 CSS
-	+ Hero Section 2 CSS
-	+ Hero Section 3 CSS
-	+ Hero Section 4 CSS
-* Promo CSS
-* Features CSS
-* Watch Video CSS
-* Screenshot CSS
-* Overview CSS
-* Testimonials CSS
-* Team CSS
-* Download CSS
-* Counter CSS
-* Pricing Table CSS
-* Faq CSS
-* Blog CSS
-	+ Latest Blog CSS
-	+ Blog Grid CSS
-	+ Blog Single CSS
-	+ Blog Single Sidebar CSS
-* Contact CSS
-* Newslatter CSS
-* Clients CSS
-* Footer  CSS
-========================================*/ 
+@charset "UTF-8";
+
+/*
+-- ==============================================================================
+-- Author:  Patrick Sagayaraj
+-- Create Date: 14-03-2022
+-- Description: United Supplies Landing Page
+
+-- Dependency:
+-- ********************
+-- Type             Responsible By              Called By
+-- Page             Patrick Sagayaraj           Front end Development
+
+-- Modification History:
+-- ********************
+-- Date             Modified By                 Change Description
+-- 14-03-2022       Patrick Sagayaraj           Home Page layout creation
+-- 15-03-2022       Patrick Sagayaraj           Home Page Section creation
+-- 16-03-2022       Patrick Sagayaraj           Home Page Section creation
+-- 17-03-2022       Patrick Sagayaraj           Home Page Section creation
+-- 18-03-2022       Patrick Sagayaraj           Home Page Section creation
+-- 19-03-2022       Patrick Sagayaraj           Home Page Section creation
+-- ==============================================================================
+*/
 
 /*=============================
 	Start Header CSS 

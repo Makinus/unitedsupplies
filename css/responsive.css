@@ -1,3 +1,23 @@
+/*
+-- ==============================================================================
+-- Author:  Patrick Sagayaraj
+-- Create Date: 14-03-2022
+-- Description: United Supplies Landing Page
+
+-- Dependency:
+-- ********************
+-- Type             Responsible By              Called By
+-- Page             Patrick Sagayaraj           Front end Development
+
+-- Modification History:
+-- ********************
+-- Date             Modified By                 Change Description
+-- 14-03-2022       Patrick Sagayaraj           Home Page layout creation
+-- 15-03-2022       Patrick Sagayaraj           Home Page Section Responsive creation
+-- 16-03-2022       Patrick Sagayaraj           Home Page Section Responsive creation
+-- ==============================================================================
+*/
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 .section-title {
 	padding: 0px;
