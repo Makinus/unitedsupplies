@@ -21,6 +21,7 @@
 -- 18-03-2022       Patrick Sagayaraj           Home Page Section creation
 -- 19-03-2022       Patrick Sagayaraj           Home Page Section creation
 -- 22-03-2022       Patrick Sagayaraj           About, Careers, Join Us Section creation
+-- 24-03-2022       Patrick Sagayaraj           Video Section and Ccareers Section improved
 -- ==============================================================================
 */
 
@@ -5102,8 +5103,19 @@ body.modal-open {
 	background-color: #052766;
 	height: 400px;
 	min-height: 25rem;
-	width: 100%;
+	width: 50%;
 	overflow: hidden;
+}
+
+@media only screen and (max-width: 991px) {
+	.video-header {
+		position: relative;
+		background-color: #052766;
+		height: 400px;
+		min-height: 25rem;
+		width: 100%;
+		overflow: hidden;
+	}
 }
 
 .video-header video {
@@ -5124,6 +5136,7 @@ body.modal-open {
 .video-header .container {
 	position: relative;
 	z-index: 2;
+	width: 100%
 }
 
 .video-header h3 {
@@ -5290,15 +5303,26 @@ body.modal-open {
 .view-careers {
 	background: #f9f9f9;
 	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 .view-careers h2 {
 	font-size: 28px;
-	max-width: 40%;
+	max-width: 100%;
 	line-height: 1.2;
 	margin: 0 auto;
 	text-align: center;
 	padding: 35px;
+	padding-bottom: 10px;
+}
+
+.view-careers p {
+	font-size: 14px;
+	line-height: 1.2;
+	margin: 0 auto;
+	text-align: center;
+	padding: 10px;
+	padding-bottom: 25px;
 }
 
 .view-careers .card-deck {
@@ -5382,3 +5406,39 @@ body.modal-open {
 /*=============================
 	/ End Careers CSS
 ===============================*/
+
+.video-section {
+	padding: 0;
+	background: #fff;
+	overflow: hidden;
+	position: relative;
+}
+
+.video-section .content {
+	padding: 31px 0px 32px 80px;
+}
+
+.video-section .content .heading-block {
+	margin-bottom: 20px;
+}
+
+.video-section .content .heading-block h3 {
+	font-weight: 300;
+	font-size: 29px;
+	color: #5b5b5b;
+	margin-bottom: 15px;
+}
+
+.video-section .content .content-block {
+	margin-bottom: 20px;
+}
+
+.video-section .content .content-block h5 {
+	margin-bottom: 10px;
+}
+
+.video-section .content .content-block:last-child {
+	margin-bottom: 0px;
+}
+
+.video-section .content .content-block p {}
