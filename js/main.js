@@ -118,8 +118,8 @@
         var typed = $(".typed");
         $(function() {
             typed.typed({
-                strings: ["Android App", "E-Commerce", "Construction Materials"],
-                typeSpeed: 200,
+                strings: ["Online E-Commerce App", "For Construction Materials"],
+                typeSpeed: 50,
                 loop: true
             });
         });
